@@ -5,6 +5,7 @@ This Quiz was bootstrapped using Vite: https://vitejs.dev
 Dependencies:
 
 Node.js is REQUIRED. Download: https://nodejs.org/en/
+
 npm is REQUIRED.  yourmachine ~ $npm install
 
 In the project directory (src), run the following commands:
