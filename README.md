@@ -1,8 +1,15 @@
-# React + Vite
+# Quiz in React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This Quiz was bootstrapped using Vite: https://vitejs.dev
 
-Currently, two official plugins are available:
+Dependencies:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Node.js is REQUIRED. Download: https://nodejs.org/en/
+npm is REQUIRED.  yourmachine ~ $npm install
+
+In the project directory (src), run the following commands:
+yourmachine ~ $npm add -D sass
+yourmachine ~ $npm i
+yourmachine ~ $npm run dev
+
+The Quiz will then be running on your local machine.
